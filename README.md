@@ -69,6 +69,7 @@ Data insertion performed using Python–SQLAlchemy integration.
 
 # 🧱 Project Architecture
 
+```
 ChocoCrunch-Analytics/
 │
 ├── data/
@@ -90,6 +91,7 @@ ChocoCrunch-Analytics/
 ├── schema.sql
 ├── requirements.txt
 └── README.md
+```
 
 ## 🚀 Getting Started
 
